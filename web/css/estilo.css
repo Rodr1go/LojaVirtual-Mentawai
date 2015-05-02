@@ -1,0 +1,57 @@
+/* 
+    Created on : 10/04/2015, 00:00:40
+    Author     : stryker
+*/
+
+body{
+    background-color: #2a85a0;
+}
+.topo_form{
+    margin-top: 70px;
+    margin-left: 303px;
+    text-shadow: 0 1px 0 rgba(255,255,255,.5);
+    font: 100 18px/42px 'PT Sans', sans-serif;
+    width: 680px;
+    height: 42px;
+    padding: 0 5px;
+    background: #e0e0e0;
+    -moz-border-radius-topleft: 6px;
+    -moz-border-radius-topright: 6px;
+    -moz-border-radius-bottomright: 0px;
+    -moz-border-radius-bottomleft: 0px;
+    -webkit-border-radius: 6px 6px 0px 0px;
+    border-radius: 6px 6px 0px 0px;
+    font-size: 15px;
+}
+
+.form_cli{
+    text-shadow: 0 1px 0 rgba(255,255,255,.5);
+    font: 100 18px/42px 'PT Sans', sans-serif;
+    width: 668px;
+    height: 165px;
+    margin-left: 303px;
+    padding: 0 10px;
+    border: 1px solid #c5c5c5;
+    background-color: buttonshadow;
+}
+
+/*Tabela*/
+.container{ 
+   background-color: #d9edf7;
+   text-shadow: 0 1px 0 rgba(255,255,255,.5);
+   font: 100 14px/42px 'PT Sans', sans-serif;
+   width: 680px;
+   height: auto;
+   margin-top: 100px;
+   margin-left: 303px;
+   padding: 0 20px;
+   
+   border: 1px solid #c5c5c5;
+   
+   -moz-border-radius-topleft: 6px;
+    -moz-border-radius-topright: 6px;
+    -moz-border-radius-bottomright: 0px;
+    -moz-border-radius-bottomleft: 0px;
+    -webkit-border-radius: 6px 6px 0px 0px;
+    border-radius: 6px 6px 0px 0px;
+}
